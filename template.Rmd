@@ -2,9 +2,7 @@
 title: "Simple document"
 author: "Anya Jacoby"
 output: 
-  html_document:
-    toc: true
-    toc_float: true
+  github_document:
 ---
 
 I'm an R Markdown document! 
